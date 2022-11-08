@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
 
-        List<String> words = Arrays.asList("cat", "word", "dog", "monkey", "human", "dog", "human", "arjun", "mom", "arjun");
+        List<String> words = Arrays.asList("cat", "word", "dog", "monkey", "human", "dog", "human", "ghost", "cat");
 
         int[] map = new int[1000];
         for (String word : words) {
